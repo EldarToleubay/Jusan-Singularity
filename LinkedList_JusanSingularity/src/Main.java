@@ -1,3 +1,5 @@
+//https://gyansetu-core-java-for-java.gitbook.io/project/untitled-1/linkedlist-operations#2-peek-peekfirst-peeklast-display-dont-remove
+
 import java.util.*;
 
 public class Main {
