@@ -20,7 +20,7 @@ public class Main {
             System.out.println(-(hundred+one+ten));
         }else {
             one = ((x%100)%10);
-            ten = ((x%100)-one);
+            ten = ((x%100)-one);rt
             hundred = x - ten - one;
             one*=100;
             hundred/=100;
